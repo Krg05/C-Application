@@ -44,7 +44,7 @@ int main(void) {
 	message = "change message";
 	printf("%s\n", message);
 	*/
-
+	
 	char message[20] = "hello world\n";
 	printf("%s", message);
 
