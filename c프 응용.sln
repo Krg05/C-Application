@@ -59,6 +59,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "수업 7-4", "수업 7-4\�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "수업 9-1", "수업 9-1\수업 9-1.vcxproj", "{797DF467-A28C-4CC8-8123-8854CDB92CA3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "수업 9-2", "수업 9-2\수업 9-2.vcxproj", "{6852AAE2-93A3-443D-9ABA-CFBC33C105C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -291,6 +293,14 @@ Global
 		{797DF467-A28C-4CC8-8123-8854CDB92CA3}.Release|x64.Build.0 = Release|x64
 		{797DF467-A28C-4CC8-8123-8854CDB92CA3}.Release|x86.ActiveCfg = Release|Win32
 		{797DF467-A28C-4CC8-8123-8854CDB92CA3}.Release|x86.Build.0 = Release|Win32
+		{6852AAE2-93A3-443D-9ABA-CFBC33C105C6}.Debug|x64.ActiveCfg = Debug|x64
+		{6852AAE2-93A3-443D-9ABA-CFBC33C105C6}.Debug|x64.Build.0 = Debug|x64
+		{6852AAE2-93A3-443D-9ABA-CFBC33C105C6}.Debug|x86.ActiveCfg = Debug|Win32
+		{6852AAE2-93A3-443D-9ABA-CFBC33C105C6}.Debug|x86.Build.0 = Debug|Win32
+		{6852AAE2-93A3-443D-9ABA-CFBC33C105C6}.Release|x64.ActiveCfg = Release|x64
+		{6852AAE2-93A3-443D-9ABA-CFBC33C105C6}.Release|x64.Build.0 = Release|x64
+		{6852AAE2-93A3-443D-9ABA-CFBC33C105C6}.Release|x86.ActiveCfg = Release|Win32
+		{6852AAE2-93A3-443D-9ABA-CFBC33C105C6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
