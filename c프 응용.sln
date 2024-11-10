@@ -67,6 +67,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "수업 9-4", "수업 9-4\�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "수업 10-1", "수업 10-1\수업 10-1.vcxproj", "{C03ABD13-65E1-44CF-82C3-A02F25B20DBA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "수업 10-2", "수업 10-2\수업 10-2.vcxproj", "{75D74741-C258-4FA6-AE54-E1864FA31AC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -331,6 +333,14 @@ Global
 		{C03ABD13-65E1-44CF-82C3-A02F25B20DBA}.Release|x64.Build.0 = Release|x64
 		{C03ABD13-65E1-44CF-82C3-A02F25B20DBA}.Release|x86.ActiveCfg = Release|Win32
 		{C03ABD13-65E1-44CF-82C3-A02F25B20DBA}.Release|x86.Build.0 = Release|Win32
+		{75D74741-C258-4FA6-AE54-E1864FA31AC0}.Debug|x64.ActiveCfg = Debug|x64
+		{75D74741-C258-4FA6-AE54-E1864FA31AC0}.Debug|x64.Build.0 = Debug|x64
+		{75D74741-C258-4FA6-AE54-E1864FA31AC0}.Debug|x86.ActiveCfg = Debug|Win32
+		{75D74741-C258-4FA6-AE54-E1864FA31AC0}.Debug|x86.Build.0 = Debug|Win32
+		{75D74741-C258-4FA6-AE54-E1864FA31AC0}.Release|x64.ActiveCfg = Release|x64
+		{75D74741-C258-4FA6-AE54-E1864FA31AC0}.Release|x64.Build.0 = Release|x64
+		{75D74741-C258-4FA6-AE54-E1864FA31AC0}.Release|x86.ActiveCfg = Release|Win32
+		{75D74741-C258-4FA6-AE54-E1864FA31AC0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
