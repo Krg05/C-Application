@@ -1,5 +1,6 @@
 #include <stdio.h>
 #define SIZE 100
+#pragma warning(disable: 4996)
 
 int main() {
 	char input[SIZE];
