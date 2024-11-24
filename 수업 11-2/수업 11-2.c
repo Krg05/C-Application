@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#pragma warning(disable: 4996)
 
 typedef struct point {
 	int x;
